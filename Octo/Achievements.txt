@@ -1,0 +1,17 @@
+   # collect total 100, 1000, 5000 eggs/shrimp - collector/muncher
+   # collect 100/250/500 unique eggs - collector's edition
+   # collect 25/75/150 unique Shrimp - Buffet
+   # collect total 50/250/1000 lives - Revitalization
+   # get total 10000/100,000/500,000 score - nom, nom
+   # get total 100/1000/5000 coins - Doubloons!
+   # Finish Game 1/5/25 times - completionist!
+   # Finish game and beat previous best time - Racer
+   # Beat developer time - mystery achievement (??? -> Beaten the maker)
+   # Dodge Angular fish/Puffy Fish 10, 25, 100 times - swift/slick
+   # use boost jump 10/50/250 times - Safeguard
+   # find 2/5/10 secrets - explorer
+   # die 10/50/200/500 times (anyone ever gonna get this??) - deep doom
+   # die to Puffer fish/Angular fish 5/25/100 times lunch-tag#
+
+
+
